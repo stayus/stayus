@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h1>Olá sou Bruno, amante por tecnologia e por desenvolver soluções</h1>
+
 <!--
 **stayus/stayus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
