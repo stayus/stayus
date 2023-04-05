@@ -28,7 +28,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
 
 <h2> About me: </h2>
  <ul>
-   <li align="left"> <strong>  😄 Pronouns: </strong> She/her
+   <li align="left"> <strong>  😄 Pronouns: </strong> he/him
    </li>
    <li align="left"> <strong> 🤓 Currently geeking out on: </strong> Java/Angular
    </li>
