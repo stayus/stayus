@@ -36,6 +36,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
    </li>
     <li align="left"> <strong>  👀 I’m currently working at: </strong> Finances!
    </li>
+    <li align="left"> <strong> 💪 Athlete and gamer in my spare time.🎮 </strong>
+   </li>
    <li align="left">
    <strong>  :blue_heart: Social: </strong>
    </li>
