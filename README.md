@@ -2,6 +2,15 @@
 
 <h1>Olá sou Bruno, amante por tecnologia e por desenvolver soluções</h1>
 
+function dev(name, age, work) {
+        this.name = name;
+        this.age = age;
+        this.work = work;
+}
+
+let brunoBorges = new dev('Bruno Borges', 27, 'Aspiring developer with a passion for learning and growth.');
+console.log(brunoBorges);
+
 <!--
 **stayus/stayus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
