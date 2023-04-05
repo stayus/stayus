@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<h1>Olá sou Bruno, amante por tecnologia e por desenvolver soluções</h1>
+# Hi, I'm Bruno Borges.
 
+```javascript
 function dev(name, age, work) {
         this.name = name;
         this.age = age;
@@ -10,6 +11,44 @@ function dev(name, age, work) {
 
 let brunoBorges = new dev('Bruno Borges', 27, 'Aspiring developer with a passion for learning and growth.');
 console.log(brunoBorges);
+```
+<div style="display: inline_block"><br>
+<h2 align="left">Languages:</h2>
+  <img align="center" alt="Bru-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bru-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Bru-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bru-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bru-angular" width="40" height="38"
+src="https://angular.io/assets/images/logos/angular/angular.svg" />
+  <img align="center" alt="Bru-java" width="30" height="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stayus&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" align="right" width="350" height="200">
+</div>
+
+<h2> About me: </h2>
+ <ul>
+   <li align="left"> <strong>  😄 Pronouns: </strong> She/her
+   </li>
+   <li align="left"> <strong> 🤓 Currently geeking out on: </strong> Java/Angular
+   </li>
+   <li align="left"> <strong>  	:woman_student: student at uni:  </strong> Dio.Me
+   </li>
+    <li align="left"> <strong>  👀 I’m currently working at: </strong> Finances!
+   </li>
+   <li align="left">
+   <strong>  :blue_heart: Social: </strong>
+   </li>
+<br>
+
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunorborges27/)
+	<a href="https://instagram.com/brunor.borges"><img src="https://img.shields.io/badge/-@brunor.borges-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+	[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:brunojr2006@gmail.com)
+	<a href="https://discord.com/channels/#7683" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
+</ul>
+
+![Snake animation](https://github.com/MarnieGrenat/MarnieGrenat/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **stayus/stayus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
